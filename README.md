@@ -1,8 +1,11 @@
 # Traveling-Salesman
 
-You can specify a puzzle or let the program generate a random one for you.
+This is a version of the Traveling Salesman Problem.
 
-The program can solve a puzzle in four algorithms, which are Breadth-First Search, Depth-First Search, A\* Algorithm with Hamming Distance and A\* Algorithm with Manhattan Distance.
+You make your living as a crop duster, flying a plane to spray farmer's fields with herbicides, pesticides and firtilizer.
+
+Tow costs: 
+
 
 ### Some screenshots
 ![](/screenshots/8puzzle.png?raw=true)
