@@ -7,6 +7,4 @@ The program can solve a puzzle in four algorithms, which are Breadth-First Searc
 ### Some screenshots
 ![](/screenshots/8puzzle.png?raw=true)
 
-![](/screenshots/8puzzle.png)
-
 ![](/screenshots/8puzzle1.png?raw=true)
