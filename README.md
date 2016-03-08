@@ -16,7 +16,7 @@ Calculate the most profitable route.
  
 
 
-### Some screenshots
+### Screenshots
 
 Fuel bar and chemicals bar will shorten all the time the plane is at work. 
 
